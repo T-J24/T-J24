@@ -14,14 +14,39 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 <div>
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/T-J24/Test">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+<table>
+    <thead>
+        <tr>
+            <th>Skill</th>
+            <th>Associated Project</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>SIEM Implementation and Log Analysis</td>
+            <td><a href="https://github.com/T-J24/Test" target="_blank">Detection Lab</a></td>
+        </tr>
+        <tr>
+            <td>Network Traffic Monitoring and Attack Detection</td>
+            <td><a href="https://google.com" target="_blank">Detection Lab</a></td>
+        </tr>
+        <tr>
+            <td>Security Automation with Shuffle SOAR</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Incident Response Planning and Execution</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Case Management with TheHive</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Scripting and Automation for Threat Mitigation</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+    </t
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
